@@ -8,7 +8,7 @@
 ![Jeff-coder GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeff06-coder&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff06-coder&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias em aprendizagem, uso no meu dia a dia:
+## Tecnologias em aprendizagem, uso frequente em meu dia a dia:
 
 <div style="display: inline_block"><br/>
 <img aling="center" alt="Python3" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
