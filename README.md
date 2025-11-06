@@ -1,7 +1,7 @@
 # Olá, eu sou o Jefferson👋
 ### Gosto bastante de fazer parte da área de tecnologia, sempre buscando mais conhecimento e melhorias.
 #### Meus Hobbys são: Programar💻, Jogar🕹️, Praticar atividades físicas🧬, Investir💸, Ler📖 e Buscar o reino de Deus🕊️!
-
+##
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@InvestidorComPropósito)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jefferson._.cc/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
