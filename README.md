@@ -27,4 +27,4 @@
 
 ##
 Atualmente estou trabalhando na área de Engenharia da Automação, como Assistente Técnico na empresa Dynamic Air.
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=046e4c&height=120&section=footer"/>
