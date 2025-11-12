@@ -1,8 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=046e4c&height=120&section=header"/>
+
 # Olá, eu sou o Jefferson👋
 ### Gosto bastante de fazer parte da área de tecnologia, sempre buscando mais conhecimento e melhorias.
 #### Meus Hobbys são: Programar💻, Jogar🕹️, Praticar atividades físicas🧬, Investir💸, Ler📖 e Buscar o reino de Deus🕊️!
 ##
+
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@InvestidorComPropósito)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jefferson._.cc/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
@@ -10,7 +11,7 @@
 
 ![Jeff-coder GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeff06-coder&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff06-coder&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=046e4c&height=120&section=header"/>
 
 ## Hard Skills em constante aprendizagem e frequentemente usadas no meu dia a dia:
 
