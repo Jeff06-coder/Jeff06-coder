@@ -30,6 +30,8 @@
 ## Soft Skills:
 
 <li>Trabalho em equipe</li>
+<li>Comunicação</li>
+<li>Pensamento crítico</li>
 
 ##
 Atualmente estou trabalhando na área de Engenharia da Automação, como Assistente Técnico na empresa Dynamic Air.
