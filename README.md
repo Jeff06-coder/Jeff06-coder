@@ -9,7 +9,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-camargo-a7128719b/)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=046e4c&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=046e4c&height=120&section=header"/>
 
 ## Hard Skills em constante aprendizagem e frequentemente usadas no meu dia a dia:
 
