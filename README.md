@@ -9,7 +9,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-camargo-a7128719b/)
 
-![Jeff-coder GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeff06-coder&show_icons=true&theme=highcontrast)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff06-coder&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=046e4c&height=120&section=header"/>
 
