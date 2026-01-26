@@ -11,6 +11,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=046e4c&height=120&section=header"/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeff06-coder&theme=codeSTACKr)
+
 ## Hard Skills em constante aprendizagem e frequentemente usadas no meu dia a dia:
 
 <div style="display: inline_block">
@@ -35,3 +37,5 @@
 ##
 Atualmente estou trabalhando na área de Engenharia da Automação, como Assistente Técnico na empresa Dynamic Air.
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=046e4c&height=120&section=footer"/>
+
+
