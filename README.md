@@ -12,6 +12,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jeff06-coder&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeff06-coder&theme=chartreuse_dark)
 
+## Soft Skills:
+
+<li>Trabalho em equipe</li>
+<li>Comunicação</li>
+<li>Pensamento crítico</li>
+
 ## Hard Skills em constante aprendizagem e frequentemente usadas no meu dia a dia:
 
 <div style="display: inline_block">
@@ -29,12 +35,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeff06-coder&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jeff06-coder&theme=chartreuse_dark&utcOffset=8)
-
-## Soft Skills:
-
-<li>Trabalho em equipe</li>
-<li>Comunicação</li>
-<li>Pensamento crítico</li>
 
 ##
 Atualmente estou trabalhando na área de Engenharia da Automação, como Assistente Técnico na empresa Dynamic Air.
