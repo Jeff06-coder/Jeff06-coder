@@ -12,7 +12,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=046e4c&height=120&section=header"/>
 
 
-![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeff06-coder&theme=shadow_green&show_icons=true)
+![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeff06-coder&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_green)
 
 
 
