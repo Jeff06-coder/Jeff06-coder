@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=046e4c&height=120&section=header"/>
 
 # Olá, eu sou o Jefferson👋
 ### Gosto bastante de fazer parte da área de tecnologia, sempre buscando mais conhecimento e melhorias.
@@ -9,12 +10,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-camargo-a7128719b/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=046e4c&height=120&section=header"/>
-
-
 ![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeff06-coder&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_green)
-
-
 
 ## Hard Skills em constante aprendizagem e frequentemente usadas no meu dia a dia:
 
@@ -40,5 +36,3 @@
 ##
 Atualmente estou trabalhando na área de Engenharia da Automação, como Assistente Técnico na empresa Dynamic Air.
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=046e4c&height=120&section=footer"/>
-
-
