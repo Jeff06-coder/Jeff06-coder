@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=046e4c&height=120&section=header"/>
-
 # Olá, eu sou o Jefferson👋
 ### Gosto bastante de fazer parte da área de tecnologia, sempre buscando mais conhecimento e melhorias.
 #### Meus Hobbys são: Programar💻, Jogar🕹️, Praticar atividades físicas🧬, Investir💸, Ler📖 e Buscar o reino de Deus🕊️!
@@ -40,4 +38,3 @@
 
 ##
 Atualmente estou trabalhando na área de Engenharia da Automação, como Assistente Técnico na empresa Dynamic Air.
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=046e4c&height=120&section=footer"/>
