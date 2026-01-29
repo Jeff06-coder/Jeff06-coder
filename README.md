@@ -11,7 +11,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=046e4c&height=120&section=header"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeff06-coder&theme=codeSTACKr)
+
+![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeff06-coder&theme=shadow_green&show_icons=true)
+
+
 
 ## Hard Skills em constante aprendizagem e frequentemente usadas no meu dia a dia:
 
