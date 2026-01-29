@@ -10,7 +10,9 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-camargo-a7128719b/)
 
-![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeff06-coder&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jeff06-coder&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jeff06-coder&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeff06-coder&theme=chartreuse_dark)
 
 ## Hard Skills em constante aprendizagem e frequentemente usadas no meu dia a dia:
 
@@ -26,6 +28,9 @@
 <img aling="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
 <br/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeff06-coder&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jeff06-coder&theme=chartreuse_dark&utcOffset=8)
 
 ## Soft Skills:
 
