@@ -8,9 +8,9 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-camargo-a7128719b/)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jeff06-coder&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jeff06-coder&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeff06-coder&theme=chartreuse_dark)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jeff06-coder&theme=chartreuse_dark)](https://github.com/Jeff06-coder)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jeff06-coder&theme=chartreuse_dark)](https://github.com/Jeff06-coder)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeff06-coder&theme=chartreuse_dark)](https://github.com/Jeff06-coder)
 
 ## Soft Skills:
 
@@ -33,8 +33,8 @@
 </div>
 <br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeff06-coder&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jeff06-coder&theme=chartreuse_dark&utcOffset=8)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeff06-coder&theme=chartreuse_dark)](https://github.com/Jeff06-coder)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jeff06-coder&theme=chartreuse_dark&utcOffset=8)](https://github.com/Jeff06-coder)
 
 ##
 Atualmente estou trabalhando na área de Engenharia da Automação, como Assistente Técnico na empresa Dynamic Air.
