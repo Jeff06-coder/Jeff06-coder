@@ -8,8 +8,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-camargo-a7128719b/)
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jeff06-coder&theme=chartreuse_dark)](https://github.com/Jeff06-coder)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jeff06-coder&theme=chartreuse_dark&utcOffset=8)](https://github.com/Jeff06-coder)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeff06-coder&show_icons=true&theme=highcontrast)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeff06-coder&theme=chartreuse_dark)](https://github.com/Jeff06-coder)
 
 ## Soft Skills:
@@ -29,7 +28,10 @@
 <img aling="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img aling="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img aling="center" alt="React_Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img aling="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img aling="center" alt="Postgre" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img aling="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img aling="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+</div>
 </div>
 <br/>
 
