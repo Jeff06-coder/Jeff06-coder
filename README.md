@@ -8,7 +8,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-camargo-a7128719b/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeff06-coder&show_icons=true&theme=highcontrast)
+![](https://github-readme-stats.vercel.app/api?username=Jeff06-coder&show_icons=true&theme=highcontrast)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeff06-coder&theme=chartreuse_dark)](https://github.com/Jeff06-coder)
 
 ## Soft Skills:
