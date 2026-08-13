@@ -16,6 +16,8 @@
 <li>Trabalho em equipe</li>
 <li>Comunicação</li>
 <li>Pensamento crítico</li>
+<li>Proatividade</li>
+<li>English (B1/B2)</li>
 
 ## Hard Skills em constante aprendizagem e frequentemente usadas no meu dia a dia:
 
@@ -39,4 +41,4 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jeff06-coder&theme=chartreuse_dark)](https://github.com/Jeff06-coder)
 
 ##
-Atualmente estou trabalhando na área de Engenharia da Automação, como Assistente Técnico na empresa Dynamic Air.
+Atualmente estou trabalhando na área de TI, como Assistente de Suporte de TI na empresa Dynamic Air.
